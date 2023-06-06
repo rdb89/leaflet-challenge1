@@ -1,2 +1,2 @@
-# leaflet-challenge1
-uom_ds_duped
+# leaflet-challenge
+UOM_DS Module 15 Leaflet Mapping Challenge
